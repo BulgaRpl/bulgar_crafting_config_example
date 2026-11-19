@@ -1,0 +1,2 @@
+# bulgar_crafting_config_example
+bulgar_crafting_config_example
