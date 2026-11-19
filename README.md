@@ -1,2 +1,3 @@
-# bulgar_crafting_config_example
-bulgar_crafting_config_example
+# BulgaR Crafting Script
+
+Preview settings for my paid script
