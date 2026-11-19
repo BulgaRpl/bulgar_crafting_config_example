@@ -12,6 +12,12 @@ Config = {}
 -- Developer mode (disable on production servers)
 Config.DeveloperMode = false
 
+-- Discord logging settings // These settings are server side when u get the script!
+Config.DiscordLogs = {
+    Enabled = false,
+	-- ITS CONFIGURED HERE AFTER U GET THE SCRIPT
+}
+
 -- General Settings
 Config.Currency = 0 -- 0 = Cash, 1 = Gold (used for recipe prices)
 Config.ItemImagePath = 'vorp_inventory/html/img/items/' -- Path to inventory item images
